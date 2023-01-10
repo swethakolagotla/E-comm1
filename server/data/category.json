@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Clothes",
+    "image": "https://api.lorem.space/image/fashion?w=640&h=480&r=6174",
+    "creationAt": "2023-01-09T23:53:35.000Z",
+    "updatedAt": "2023-01-09T23:53:35.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Electronics",
+    "image": "https://api.lorem.space/image/watch?w=640&h=480&r=7878",
+    "creationAt": "2023-01-09T23:53:35.000Z",
+    "updatedAt": "2023-01-09T23:53:35.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Furniture",
+    "image": "https://api.lorem.space/image/furniture?w=640&h=480&r=141",
+    "creationAt": "2023-01-09T23:53:35.000Z",
+    "updatedAt": "2023-01-10T00:01:41.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Shoes",
+    "image": "https://api.lorem.space/image/shoes?w=640&h=480&r=4921",
+    "creationAt": "2023-01-09T23:53:35.000Z",
+    "updatedAt": "2023-01-09T23:53:35.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Others",
+    "image": "https://api.lorem.space/image?w=640&h=480&r=28",
+    "creationAt": "2023-01-09T23:53:35.000Z",
+    "updatedAt": "2023-01-09T23:53:35.000Z"
+  },
+  {
+    "id": 10,
+    "name": "New Category",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2023-01-10T01:59:33.000Z",
+    "updatedAt": "2023-01-10T01:59:33.000Z"
+  },
+  {
+    "id": 11,
+    "name": "New Category",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2023-01-10T02:14:20.000Z",
+    "updatedAt": "2023-01-10T02:14:20.000Z"
+  },
+  {
+    "id": 12,
+    "name": "Pokemon",
+    "image": "https://sm.ign.com/t/ign_es/review/p/pokemon-sc/pokemon-scarlet-and-violet-review_jv3v.1280.jpg",
+    "creationAt": "2023-01-10T05:49:46.000Z",
+    "updatedAt": "2023-01-10T05:49:46.000Z"
+  },
+  {
+    "id": 16,
+    "name": "MyfirststepsAPI's",
+    "image": "https://api.lorem.space/image/furniture?w=640&h=480&r=7358",
+    "creationAt": "2023-01-10T06:42:15.000Z",
+    "updatedAt": "2023-01-10T06:43:13.000Z"
+  }
+]
